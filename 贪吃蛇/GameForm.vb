@@ -2,7 +2,7 @@
     ''' <summary>
     ''' 蛇的初始长度
     ''' </summary>
-    Private Const DefaultSnakeLength As Integer = 15
+    Private Const DefaultSnakeLength As Integer = 3
     ''' <summary>
     ''' 游戏区域与窗口外边框间距
     ''' </summary>
